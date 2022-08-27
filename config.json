@@ -1,0 +1,48 @@
+{
+  "token": "OTQyMTQzOTE1NzE5NTUzMDc0.G80iS9.252rhdFfQZJ0TpjBo57bpjsNGDS3RQj0KARFxo",
+  "bot": {
+    "name": "Clover pub (bêta)",
+    "prefix": "!",
+    "owner": "971277925892636733",
+    "version": "1.0.0"
+  },
+  "embed": {
+    "success": "GREEN",
+    "error": "RED",
+    "basic": "GREEN",
+    "basicc": "DARK_GREEN"
+  },
+  "permissions": "Cette commande dispose d'une autorisation que vous ne possédez pas",
+  "id": {
+    "staff": "1012316426037633124",
+    "channels": {
+      "pub": [
+        "993090067885199360",
+        "993090068937986218",
+        "993090071815258153",
+        "993090072972898356",
+        "993090075623698543",
+        "993090076676476991",
+        "993090077708255232",
+        "993090080979812372",
+        "993090082183594064",
+        "993090083295088650",
+        "993090084234600478",
+        "993090086533079060",
+        "993090087460032552",
+        "993090088567312394",
+        "993090089561358406"
+      ],
+      "verif": "0",
+      "logs": "0",
+      "sanctions": "0"
+    },
+    "categories": [
+      "1012309428957106216"
+    ],
+    "client": "993090028509081651"
+  },
+  "config": {
+    "mp": "0"
+  }
+}
